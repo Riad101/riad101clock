@@ -1,0 +1,28 @@
+body{
+    background-color: #003049;
+    color: white;
+    padding-left:1%;
+    padding-top: 1%;
+    text-align: center;
+  }
+  
+  .close{
+    display:none;
+  }
+  
+  .open{
+    display: block;
+  }
+  
+  button{
+    width: 150px;
+    color: white;
+    background-color: #dc2f02;
+    font-size: 120%;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  button:hover{
+    background: #90be6d;
+  }
